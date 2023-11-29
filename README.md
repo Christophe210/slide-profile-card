@@ -1,7 +1,1 @@
-<b>Youtube: https://www.youtube.com/channel/UCpWAHyvsw6-Hd3FMcKIHGCA</b> <br />
-<b>Sản phẩm này code bởi Lùn Dev</b><br/>
-demo slide by<br />
-fb: https://www.facebook.com/hohoang.dev/ <br />
-tiktok: https://www.tiktok.com/@kulun0312 <br />
-gmail: hohoang.dev@gmail.com <br />
-<b>Youtube: https://www.youtube.com/channel/UCpWAHyvsw6-Hd3FMcKIHGCA</b>
+Allows manipulation of navigation buttons to change the displayed image, A horizontal bar used to count down the running time of an animation, Creating an endless loop helps users click next forever but will never run out of sliders,
